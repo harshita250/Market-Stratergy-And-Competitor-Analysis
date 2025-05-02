@@ -1,4 +1,4 @@
-# Healthcare Market Analysis & Sales Strategy Recommendations
+# Market Analysis & Sales Strategy Recommendations
 
 ## Project Overview
 This project analyzes healthcare claims data (2016–2018) to uncover actionable insights for improving the adoption of anesthesia drug products, specifically **Product 2**, in a competitive market. The analysis focuses on HCP behavior, patient demographics, and CVM claim trends to recommend optimized sales and marketing strategies.
